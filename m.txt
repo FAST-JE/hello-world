@@ -1,2 +1,6 @@
 Hello, World!
+<<<<<<< HEAD
 Hello Humans.
+=======
+Email: fast@ya.ru
+>>>>>>> master
