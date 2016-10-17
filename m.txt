@@ -1,2 +1,6 @@
 Hello, World!
+<<<<<<< HEAD
 email: fast@ya.ru
+=======
+Hi Humans oh.
+>>>>>>> iss53
