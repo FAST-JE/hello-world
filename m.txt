@@ -1,5 +1,4 @@
 Hello, World!
-I added new line
 I added email
 email: fast@ya.ru
 
